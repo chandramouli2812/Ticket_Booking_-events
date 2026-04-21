@@ -21,7 +21,7 @@ A full-stack application built with **FastAPI (backend)** and **React.js (fronte
 ### Backend (FastAPI)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chandramouli2812/Event_booking_platform.git
+   git clone https://github.com/chandramouli2812/Ticket_Booking_-events.git
    cd event-booking-platform/backend
    ```
 
