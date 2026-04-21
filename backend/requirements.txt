@@ -1,0 +1,6 @@
+psycopg2-binary   # PostgreSQL driver
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
