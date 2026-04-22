@@ -161,22 +161,23 @@ A full-stack application built with **FastAPI (backend)** and **React.js (fronte
 Add your screenshots here:
 
 - Login Page  
-![alt text](image.png)
+<img width="2159" height="1439" alt="Screenshot 2026-04-21 162207" src="https://github.com/user-attachments/assets/1c740552-e2c9-4058-b808-ed7056081647" />
+
 
 - Events Listing  
-![alt text](image-1.png)
+<img width="2159" height="1439" alt="Screenshot 2026-04-21 162216" src="https://github.com/user-attachments/assets/ce910f63-6004-48d7-8c01-cabf6b335469" />
 
 - Event Details & Booking  
-![alt text](image-2.png)
+<img width="2159" height="1417" alt="Screenshot 2026-04-21 162241" src="https://github.com/user-attachments/assets/b93956f0-6f49-41b8-8eec-e507c9296598" />
 
 - My Bookings 
-![alt text](image-3.png)
+<img width="2159" height="1439" alt="Screenshot 2026-04-21 162254" src="https://github.com/user-attachments/assets/c2e9a64d-24f3-4ff3-bda0-9548fc3495e9" />
 
 - Notifications  
-![alt text](image-4.png)
+<img width="2159" height="1439" alt="Screenshot 2026-04-21 162312" src="https://github.com/user-attachments/assets/e9454f71-fc73-4576-bb77-ea7c9d03cfbe" />
 
 - Admin Analytics  
-![alt text](image-5.png)
+<img width="2159" height="1439" alt="Screenshot 2026-04-21 162303" src="https://github.com/user-attachments/assets/e591d919-1515-4e21-8a15-665a75868825" />
 ---
 
 ## 📦 Deployment Notes
